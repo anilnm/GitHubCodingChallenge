@@ -12,4 +12,6 @@
 # Then user creates pull request to master branch
 # 
 # Log file git_flow_task-20221023-214438.txt is also published in this repo for reference
-# Python file for code: 
+# Python file for code: test_github_operations_pytest.py
+#
+# token used in the code is modified after publishing the code and report files for security reasons
